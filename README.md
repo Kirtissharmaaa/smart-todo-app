@@ -60,6 +60,11 @@ This project helped me strengthen my understanding of:
 - Implement Dark Mode
 - Enable drag-and-drop task reordering
 
+## 🎥 Demo Video
+
+#### 👉 [Watch Demo]:
+   https://www.linkedin.com/posts/kirti-sharma2803_javascript-html-css-activity-7483791840584822784-usby
+
 ## 👩🏻‍💻Developed By
 
 - ### Kirti Sharma
